@@ -1,0 +1,149 @@
+[
+   {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "category": "Electronics",
+      "brand": "Logitech"
+   },
+   {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "brand": "Sony"
+   },
+   {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 699.99,
+      "category": "Electronics",
+      "brand": "Apple"
+   },
+   {
+      "id": 4,
+      "name": "4K Ultra HD TV",
+      "price": 899.99,
+      "category": "Electronics",
+      "brand": "Samsung"
+   },
+   {
+      "id": 5,
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "category": "Electronics",
+      "brand": "Asus"
+   },
+   {
+      "id": 6,
+      "name": "Electric Kettle",
+      "price": 34.99,
+      "category": "Home Appliances",
+      "brand": "Breville"
+   },
+   {
+      "id": 7,
+      "name": "Blender",
+      "price": 49.99,
+      "category": "Home Appliances",
+      "brand": "Ninja"
+   },
+   {
+      "id": 8,
+      "name": "Air Fryer",
+      "price": 89.99,
+      "category": "Home Appliances",
+      "brand": "Philips"
+   },
+   {
+      "id": 9,
+      "name": "Electric Toothbrush",
+      "price": 79.99,
+      "category": "Personal Care",
+      "brand": "Oral-B"
+   },
+   {
+      "id": 10,
+      "name": "Scented Candle",
+      "price": 19.99,
+      "category": "Home Decor",
+      "brand": "Yankee Candle"
+   },
+   {
+      "id": 11,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "Footwear",
+      "brand": "Nike"
+   },
+   {
+      "id": 12,
+      "name": "Casual Sneakers",
+      "price": 69.99,
+      "category": "Footwear",
+      "brand": "Adidas"
+   },
+   {
+      "id": 13,
+      "name": "Leather Wallet",
+      "price": 39.99,
+      "category": "Accessories",
+      "brand": "Fossil"
+   },
+   {
+      "id": 14,
+      "name": "Wrist Watch",
+      "price": 199.99,
+      "category": "Accessories",
+      "brand": "Seiko"
+   },
+   {
+      "id": 15,
+      "name": "Yoga Mat",
+      "price": 29.99,
+      "category": "Fitness",
+      "brand": "Liforme"
+   },
+   {
+      "id": 16,
+      "name": "Dumbbells Set",
+      "price": 59.99,
+      "category": "Fitness",
+      "brand": "Bowflex"
+   },
+   {
+      "id": 17,
+      "name": "Cookbook",
+      "price": 24.99,
+      "category": "Books",
+      "brand": "Penguin"
+   },
+   {
+      "id": 18,
+      "name": "Fiction Novel",
+      "price": 14.99,
+      "category": "Books",
+      "brand": "HarperCollins"
+   },
+   {
+      "id": 19,
+      "name": "Board Game",
+      "price": 34.99,
+      "category": "Toys",
+      "brand": "Hasbro"
+   },
+   {
+      "id": 20,
+      "name": "Action Figure",
+      "price": 19.99,
+      "category": "Toys",
+      "brand": "Mattel"
+   },
+   {
+      "id": 21,
+      "name": "Computer Table",
+      "price": 25.99,
+      "category": "Furniture",
+      "brand": "Zebronics"
+   }
+]
